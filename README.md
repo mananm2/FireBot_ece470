@@ -9,4 +9,4 @@ To be added: a file for fire detection and subsequent movement of the robot towa
 
 Read the code for detailed comments.
 
-Works with V-Rep file Update3.ttt
+Works with V-Rep file Update4.ttt
