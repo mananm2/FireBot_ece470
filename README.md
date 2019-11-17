@@ -1,4 +1,4 @@
-# Robotics Project - Manan Mehta code
+# Robotics Project - Manan Mehta
 
 The project aims at developing an autonomous robot which can detect fire in a room and extinguish it.
 
